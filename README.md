@@ -1,5 +1,13 @@
-# Temperature Conversor
+# Temperature Converter
+
 A cli to convert temperatures between kelvin, celcius and fahrenheit
+
+* **Install**
+
+```
+cargo install tcv
+```
+
 * **Usage**
 ```
 $ tcv --help
