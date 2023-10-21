@@ -2,8 +2,7 @@
 name    = "tcv"
 version = "0.1.1"
 edition = "2021"
-author  = "Julio C. B. Gardona"
-about   =  "A temperature unit converter"
+description = "A temperature unit converter"
 authors = ["Julio Gardona <jcbritobr@gmail.com>"]
 readme = "README.md"
 repository = "https://github.com/jgardona/tcv"
