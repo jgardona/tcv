@@ -1,6 +1,6 @@
 # Temperature Converter
 
-A cli to convert temperatures between kelvin, celcius and fahrenheit
+A cli to convert temperatures between kelvin, Celsius and Fahrenheit
 
 * **Install**
 
@@ -20,15 +20,17 @@ Options:
   -t, --temperature <TEMPERATURE>  Input temperature to convert
   -h, --help                       Print help information
   -V, --version                    Print version information
-  ```
+```
 
-* **Kelvin to celsius conversion**
-  ```
+* **Kelvin to Celsius conversion**
+
+```
 $ tcv -t 0 k2c
 -273.15
 ```
 
-* **Fahrenheit to celsius conversion**
+* **Fahrenheit to Celsius conversion**
+
 ```
 $ tcv -t 80 f2c
 26.666666666666668
