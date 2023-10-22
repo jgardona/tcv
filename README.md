@@ -21,3 +21,15 @@ Options:
   -h, --help                       Print help information
   -V, --version                    Print version information
   ```
+
+* **Kelvin to celsius conversion**
+  ```
+$ tcv -t 0 k2c
+-273.15
+```
+
+* **Fahrenheit to celsius conversion**
+```
+$ tcv -t 80 f2c
+26.666666666666668
+```
